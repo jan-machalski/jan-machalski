@@ -3,14 +3,11 @@
 I'm a student of Computer Science and Information Technology at Warsaw University of Technology.
 I'm especially interested in optimization of complex algorithms and building bots based on different algorithms.
 
-## 🚀 Current projects
-- **[ActiLink Backend](https://github.com/ActiLink/ActiLink-backend.git)**:
-  Backend of the app [ActiLink](https://github.com/ActiLink/ActiLink-frontend.git) - a mobile app to help users connect with other people who have similar hobbies.
-  The project uses technologies such as .NET 9.0, Entity Framework and Docker.
-- **[Checkers Genetic](https://github.com/jan-machalski/CheckersGenetic.git)**:
-  A C++ based checkers bot which optimizes evaluation by utilising genetic algorithm and tournament selection to find optimal heuristic weights.
+## Engineering thesis
+- **[Real-time Realistic 3D Graphics Rendering using DirectX Raytracing (DXR)](https://github.com/ENGJA/RayTracing.git)**:
+  The aim of this project was to design and implement a real-time rendering engine utilizing hardware-accelerated ray tracing via the DirectX 12 API and its DirectX Raytracing (DXR) extension. The application demonstrates the practical application of modern rendering techniques to achieve high visual fidelity in interactive environments.
 
-## Some of my previous university projects
+## Some of my other previous university projects
 
 ### Machine Learning
 - **[Word recognition bot](https://github.com/andrucior/ML.git)**:
@@ -18,12 +15,17 @@ I'm especially interested in optimization of complex algorithms and building bot
 
 ### GPU programming in CUDA
 
-- **[Monte Carlo Checkers](https://github.com/jan-machalski/Checkers-MonteCarlo.git)**:
-  A checkers bot based on the [Monte Carlo tree search algorithm](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search). It utilizes GPU cores to maximize the number of simulations done each move.
 - **[KMeans](https://github.com/jan-machalski/KMeans.git)**:
   A couple of different implementations of the [KMeans clustering algorithm](https://en.wikipedia.org/wiki/K-means_clustering). GPU used to parallelize computations and speed up computation.
+- **[Monte Carlo Checkers](https://github.com/jan-machalski/Checkers-MonteCarlo.git)**:
+  A checkers bot based on the [Monte Carlo tree search algorithm](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search). It utilizes GPU cores to maximize the number of simulations done each move.
+- **[Checkers Genetic](https://github.com/jan-machalski/CheckersGenetic.git)**:
+  A C++ based checkers bot which optimizes evaluation by utilising genetic algorithm and tournament selection to find optimal heuristic weights.
 
 ### .NET web programming
+- **[ActiLink Backend](https://github.com/ActiLink/ActiLink-backend.git)**:
+  Backend of the app [ActiLink](https://github.com/ActiLink/ActiLink-frontend.git) - a mobile app to help users connect with other people who have similar hobbies.
+  The project uses technologies such as .NET 9.0, Entity Framework and Docker.
 - **[DriveIt](https://github.com/JAWMini/DriveIt)**:
   A Blazor web app for a car rental company.
 
